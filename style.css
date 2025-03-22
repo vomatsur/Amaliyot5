@@ -1,0 +1,183 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    height: 100px;
+}
+   
+    
+
+header div{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 400px;
+}
+
+header .div2{
+    width: 300px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #F57520;
+}
+
+
+.box{
+   
+    background-image: url(./1.png);
+    background-size: cover;
+    width: 100%;
+    height: 875px;
+}
+
+.box2 h1{
+    color: white;
+    width: 679px;
+    height: 227px;
+    font-size: 90px;
+}
+
+.box2 p{
+    color: white; 
+    width: 450px;
+    height: 87px;
+}
+
+.box2 button{
+    width: 180px;
+    height: 52px;
+    border-radius: 10px;
+    background-color: #F57520;
+    color: white;
+}
+
+.box2{
+    margin-left: 200px;
+  padding-top: 100px;
+}
+
+
+.het{
+    color: black;
+    background-color:gray;
+    width: 100%;
+    height: 70px;
+    font-size: 50px;
+    text-align: center;
+}
+
+ .b2 div{
+    width: 400px;
+    height: 150px;
+    background-color: black;
+    color: white;
+  border-radius: 10px;
+}
+
+.b2 div:hover{
+    background-color: #F57520;
+    color: black;
+}
+
+.b1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 120px;
+    flex-wrap: wrap;
+    background-color: gray;
+    width: 100%;
+    height: 1000px;
+}
+
+.b2 img{
+    border-radius: 10px;
+}
+
+.tut{
+    width: 900px;
+    height: 636px;
+    background-color: #F57520;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+}
+
+input{
+    width: 290px;
+    height: 46px;
+    border-radius: 10px;
+}
+
+.right{
+    width: 1000px;
+    height: 636px;
+}
+
+
+.in2{
+    width:585px;
+    height: 100px;
+    margin-top: 20px;
+}
+
+.right img{
+    width: 928px;
+    height: 636px;
+}
+
+.ut button{
+    width: 585px;
+    height: 52px;
+    border-radius: 10px;
+    background-color: white;
+    color:  #F57520;
+    margin-top: 50px;
+}
+
+
+iframe{
+    width: 100%;
+    height: 500px;
+}
+
+footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    width: 100%;
+    height: 200px;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
